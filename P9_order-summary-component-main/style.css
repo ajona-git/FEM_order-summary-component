@@ -127,10 +127,7 @@ img {
     padding:1.5rem;
 }
 @media (max-width:500px){
-    /* :root{
-        --fs-body:.8rem;
-        --fs-heading:1.5rem;
-    } */
+
     body{
         background-image:url(./images/pattern-background-mobile.svg);
         background-repeat:no-repeat;
